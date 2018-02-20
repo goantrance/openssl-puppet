@@ -1,0 +1,18 @@
+{
+  "name": "gparkes-openssl",
+  "version": "0.1.0",
+  "author": "gparkes",
+  "summary": "My first module in Git",
+  "license": "Apache-2.0",
+  "source": "https://github.com/goantrance/openssl-puppet.git",
+  "project_page": "https://github.com/goantrance/openssl-puppet",
+  "issues_url": "https://github.com/goantrance/openssl-puppet/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
